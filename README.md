@@ -38,5 +38,5 @@ Ao longo do programa, novos desafios e conteúdos práticos são liberados, com 
 
 
 <p align="center">
-  <a href="https://github.com/RaianaS/Dev-Alura" target="_blank">Explore o Projeto Completo</a>
+  <a href="https://github.com/RaianaS/Alura.git" target="_blank">Explore o Projeto Completo</a>
 </p>
